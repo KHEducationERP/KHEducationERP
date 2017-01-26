@@ -5,6 +5,5 @@
    <title>eduERP</title>
 </head>
 <body>
-   <a href = "#">링크</a>
 </body>
 </html>
